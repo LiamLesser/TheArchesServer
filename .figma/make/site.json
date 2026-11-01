@@ -1,0 +1,11 @@
+{
+  "title": "The Arches Server",
+  "description": "The Arches Server clubhouse with live Chess.com leaderboards, member activity, club matches, game-based points, and ArchSound.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": true,
+    "ignoreReducedMotion": false
+  }
+}
